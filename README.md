@@ -6,6 +6,7 @@
 #### Sobre nós
 Por meio da consulta e análise de dados oficiais, tais como Censo Escolar, IDEB e Desempenho dos estudantes do ENEM, além de dados retroalimentados por estudantes do Ensino Médio de todo o Brasil, gestores das Secretarias de Educação podem embasar seus Planejamentos Estratégicos de Implementação do Novo Ensino Médio, criando currículos e ofertas de Itinerários Formativos mais condizentes com a realidade de seus estados a partir do perfil do corpo docente e dos estudantes, caminhando rumo a um projeto de educação construído colaborativa e democraticamente!
 ___
+
 ## Nosso site
 Acesse nosso site em http://edumap.surge.sh/
 
