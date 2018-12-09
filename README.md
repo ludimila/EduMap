@@ -23,6 +23,8 @@ Acesse nosso site em http://edumap.surge.sh/
 - Todos arquivos desenvolvidos para termos nosso Frontend (http://edumap.surge.sh/) estão disponíveis dentro da pasta **frontend**
 - Decidimos usar o Tableout para visualização analitica de nossos gráficos gerados a partir de nossos dados consolidados. 
 
+ ### Pitch
+ - Nosso pitch pode ser visto dentro da pasta **Pitch**
 ---
 
 
