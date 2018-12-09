@@ -21,7 +21,7 @@ Acesse nosso site em http://edumap.surge.sh/
 - Nosso output final pode ser visualizado no S3 dentro de ***s3://g30batalha/edumap/final_output***
 
  ### Frontend 
-- All resources related to the frontend that is exposed on http://edumap.surge.sh/ can be seen on folder **frontend**
+- Todos arquivos desenvolvidos para termos nosso Frontend (http://edumap.surge.sh/) estão disponíveis dentro da pasta **frontend**
 - Decidimos usar o Tableout para visualização analitica de nossos gráficos gerados a partir de nossos dados consolidados. 
 
 ---
